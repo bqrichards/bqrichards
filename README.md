@@ -6,7 +6,7 @@ React / React Native Developer
 
 * 🌍  I'm based in Ames, IA
 * 🖥️  See my portfolio at [bqrichards.github.io](http://bqrichards.github.io)
-* 🚀  I'm currently working on [roots](http://github.com/bqrichards/roots)
+* 🚀  I'm currently working on [roots](http://github.com/bqrichards/roots) and [data_rocket](https://github.com/bqrichards/data_rocket)
 * 😄 Pronouns: he/him
 
 ### Skills
