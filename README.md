@@ -4,11 +4,11 @@ My name is Brandon Richards
 React / React Native Developer
 ------------------------------
 
-* 🌍  I'm based in Ames, IA
-* 📚 Class of 2023 at [Iowa State University](https://www.iastate.edu/)
-* 🖥️  See my portfolio at [bqrichards.github.io](http://bqrichards.github.io)
-* 🚀  I'm currently working on [data_rocket](https://github.com/bqrichards/data_rocket)
-* 😄 Pronouns: he/him
+* 🌍 I'm based in Davenport, IA
+* 🎓 Class of 2023 at [Iowa State University](https://www.iastate.edu/)
+* 🖥️ See my portfolio at [bqrichards.github.io](http://bqrichards.github.io)
+* 🚀 I'm currently working on [data_rocket](https://github.com/bqrichards/data_rocket)
+* 😄 Pronouns: he/him/his
 
 ### Skills
 
